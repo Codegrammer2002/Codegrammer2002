@@ -2,11 +2,12 @@ Welcome to my profile
 
 About me:
 A college freshman kid pursuing BS in CS. 
-Future projects;
+Future projects:
 1. Full stack webapp.
 2. A web based game
 3. Personal website
 4. Sprucing up previous projects.
+
 
 <!--
 **Codegrammer2002/Codegrammer2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
