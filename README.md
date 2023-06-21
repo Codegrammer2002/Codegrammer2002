@@ -1,7 +1,7 @@
 Welcome to my profile
 
 
-A college freshman kid pursuing BS in CS. 
+A college kid with a passion for Tech. 
 
 
 
