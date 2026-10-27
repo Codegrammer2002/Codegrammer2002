@@ -1,9 +1,12 @@
-Welcome to my profile
+Herzlich willkommen to my profile
 
 
-A college kid with a passion for Tech. 
+I'm a software analyst with a passion for Tech and learning *actual* languages. 
 
-
+Two truths and a lie:
+  1. I had a 3000+ day streak on Duolingo.
+  2. I speak German
+  3. I am proficient in more than 5 languages
 
 <!--
 **Codegrammer2002/Codegrammer2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
